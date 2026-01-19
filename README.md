@@ -20,7 +20,7 @@ GitHub: https://github.com/d-tolstoy
 **Навыки:** нормализация, связи, ключи, `SELECT / JOIN / GROUP BY`, агрегаты.
 
 **Артефакты:**
-- https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql — схема/описание, SQL-скрипты, примеры запросов и результатов
+- https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql — схема/описание, SQL-скрипты, примеры запросов (с привязкой к дб chinook)
 
 ---
 
