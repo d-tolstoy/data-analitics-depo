@@ -29,7 +29,7 @@ GitHub: https://github.com/d-tolstoy
 **Навыки:** pandas, NumPy, обработка пропусков, группировки, визуализация (matplotlib/seaborn).
 
 **Артефакты:**
-- `https://github.com/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_(eda_visualize_ml).ipynb` — ноутбук/отчёт с EDA, графики и выводы
+- https://github.com/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_(eda_visualize_ml).ipynb — ноутбук/отчёт с EDA, графики и выводы
 
 ---
 
@@ -38,7 +38,7 @@ GitHub: https://github.com/d-tolstoy
 2) Затем `https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql` — видно понимание SQL и реляционной логики
 
 > Если GitHub плохо рендерит ноутбуки: используйте nbviewer:
-> https://nbviewer.org/https://colab.research.google.com/drive/1G0_BwCchr1yeIl0Cx8uotKiO4R-GByie?usp=drive_link
+> https://nbviewer.org/github/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_%28eda_visualize_ml%29.ipynb
 
 ---
 
