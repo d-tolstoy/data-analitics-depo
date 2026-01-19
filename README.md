@@ -20,7 +20,7 @@ GitHub: https://github.com/d-tolstoy
 **Навыки:** нормализация, связи, ключи, `SELECT / JOIN / GROUP BY`, агрегаты.
 
 **Артефакты:**
-- `(https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql)` — схема/описание, SQL-скрипты, примеры запросов и результатов
+- `https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql` — схема/описание, SQL-скрипты, примеры запросов и результатов
 
 ---
 
@@ -29,7 +29,7 @@ GitHub: https://github.com/d-tolstoy
 **Навыки:** pandas, NumPy, обработка пропусков, группировки, визуализация (matplotlib/seaborn).
 
 **Артефакты:**
-- `(https://github.com/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_(eda_visualize_ml).ipynb)` — ноутбук/отчёт с EDA, графики и выводы
+- `https://github.com/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_(eda_visualize_ml).ipynb` — ноутбук/отчёт с EDA, графики и выводы
 
 ---
 
@@ -38,7 +38,7 @@ GitHub: https://github.com/d-tolstoy
 2) Затем `https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql` — видно понимание SQL и реляционной логики
 
 > Если GitHub плохо рендерит ноутбуки: используйте nbviewer:
-> https://nbviewer.org/https://github.com/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_(eda_visualize_ml).ipynb
+> https://nbviewer.org/github.com/d-tolstoy/data-analitics-depo/blob/main/Итоговый_проект_(eda_visualize_ml).ipynb
 
 ---
 
