@@ -38,7 +38,7 @@ GitHub: https://github.com/d-tolstoy
 2) Затем `https://github.com/d-tolstoy/data-analitics-depo/blob/main/Script-test.sql` — видно понимание SQL и реляционной логики
 
 > Если GitHub плохо рендерит ноутбуки: используйте nbviewer:
-> https://nbviewer.org/colab.research.google.com/drive/1G0_BwCchr1yeIl0Cx8uotKiO4R-GByie?usp=sharing)
+> https://nbviewer.org/+colab.research.google.com/drive/1G0_BwCchr1yeIl0Cx8uotKiO4R-GByie?usp=sharing)
 
 ---
 
