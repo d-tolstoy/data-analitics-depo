@@ -1,4 +1,4 @@
---домашнее задание №2
+--Test
 
 --1
 SELECT 
@@ -145,4 +145,5 @@ JOIN
 CROSS JOIN
     TotalTrackCount ttc
 WHERE
+
     ctc.NumberOfTracksBought = ttc.TotalCount;
